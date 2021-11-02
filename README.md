@@ -4,7 +4,7 @@
 
 **Aimed to help beginners learn to contribute to open source projects.**
 
-### Contributing Steps
+### Contributing Steps:
 1. Head to [Issues](https://github.com/AidaIssayeva/android-simple-app/issues)
 2. Find an unassigned open issue
 3. Create a pull request for it.
