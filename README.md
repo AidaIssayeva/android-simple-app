@@ -1,5 +1,9 @@
 # android-simple-app
 
+This project is a part of my talk ["The 5-step guide to become an Android Developer"](https://cupsofcode.com/post/the_five_step_guide_to_become_android_developer/) 
+
+### About the Project
+
 ✨ Newbie-friendly Android open-source project.✨
 
 
@@ -15,4 +19,3 @@
 1. Please follow standard Kotlin [coding conventions](https://kotlinlang.org/docs/coding-conventions.html).
 
 
-This project is a part of my talk ["The 5-step guide to become an Android Developer"](https://cupsofcode.com/post/the_five_step_guide_to_become_android_developer/) 
