@@ -24,6 +24,9 @@ class MainActivity : AppCompatActivity() {
         "Blueberry"
     )
 
+    /**
+     * Returns random fruit from fruits as String.
+     */
     private fun getRandomFruit(): String {
         return fruits.random()
     }
