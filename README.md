@@ -1,6 +1,6 @@
 # android-simple-app
 
-This project is a part of my talk ["The 5-step guide to become an Android Developer"](https://cupsofcode.com/post/the_five_step_guide_to_become_android_developer/) 
+This project is a part of my talk ["The 5-step guide to become an Android Developer"](https://cupsofcode.com/post/the_five_step_guide_to_become_android_developer/). 
 
 ### About the Project
 
