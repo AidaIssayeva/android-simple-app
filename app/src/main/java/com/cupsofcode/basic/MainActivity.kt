@@ -25,9 +25,8 @@ class MainActivity : AppCompatActivity() {
     )
 
     /**
-     * Returns random fruit from fruits as String
+     * Returns random fruit from fruits as String.
      */
-
     private fun getRandomFruit(): String {
         return fruits.random()
     }
