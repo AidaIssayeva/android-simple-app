@@ -21,7 +21,22 @@ class MainActivity : AppCompatActivity() {
         "Pineapple",
         "Strawberry",
         "Melon",
-        "Blueberry"
+        "Blueberry",
+        "Banana",
+        "Grapes",
+        "BlackBerries",
+        "Cherries",
+        "Cranberries",
+        "Custard-Apple",
+        "Date Fruit",
+        "Mango",
+        "Guava",
+        "Lemon",
+        "Orange",
+        "Papaya",
+        "Pear",
+        "Watermelon"
+        
     )
 
     /**
