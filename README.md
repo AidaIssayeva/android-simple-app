@@ -11,7 +11,7 @@ This project is a part of my talk ["The 5-step guide to become an Android Develo
 
 ### Contributing Steps:
 1. Head to [Issues](https://github.com/AidaIssayeva/android-simple-app/issues)
-2. Find an nassigned open issue
+2. Find an unassigned open issue
 3. Create a Pull Request for it.
 4. Link the issue to the Pull Request.
 
